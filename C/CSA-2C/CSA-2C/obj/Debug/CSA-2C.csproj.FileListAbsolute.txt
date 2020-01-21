@@ -1,0 +1,77 @@
+F:\Outchjoobeescthe\CSAD\CSA-2\S\CSA-2C\CSA-2C\bin\Debug\CSA-2C.exe.config
+F:\Outchjoobeescthe\CSAD\CSA-2\C\CSA-2C\CSA-2C\bin\Debug\CSA-2C.exe.config
+F:\Outchjoobeescthe\CSAD\CSA-2\C\CSA-2C\CSA-2C\bin\Debug\CSA-2C.exe
+F:\Outchjoobeescthe\CSAD\CSA-2\C\CSA-2C\CSA-2C\bin\Debug\CSA-2C.pdb
+F:\Outchjoobeescthe\CSAD\CSA-2\C\CSA-2C\CSA-2C\obj\Debug\CSA-2C.csprojResolveAssemblyReference.cache
+F:\Outchjoobeescthe\CSAD\CSA-2\C\CSA-2C\CSA-2C\obj\Debug\CSA_2C.Form1.resources
+F:\Outchjoobeescthe\CSAD\CSA-2\C\CSA-2C\CSA-2C\obj\Debug\CSA_2C.Properties.Resources.resources
+F:\Outchjoobeescthe\CSAD\CSA-2\C\CSA-2C\CSA-2C\obj\Debug\CSA-2C.csproj.GenerateResource.Cache
+F:\Outchjoobeescthe\CSAD\CSA-2\C\CSA-2C\CSA-2C\obj\Debug\CSA-2C.exe
+F:\Outchjoobeescthe\CSAD\CSA-2\C\CSA-2C\CSA-2C\obj\Debug\CSA-2C.pdb
+F:\Outchjoobeescthe\CSAD\CSA-3\C\CSA-2C\CSA-2C\bin\Debug\CSA-2C.exe.config
+F:\Outchjoobeescthe\CSAD\CSA-3\C\CSA-2C\CSA-2C\obj\Debug\CSA-2C.exe
+F:\Outchjoobeescthe\CSAD\CSA-3\C\CSA-2C\CSA-2C\obj\Debug\CSA-2C.pdb
+F:\Outchjoobeescthe\CSAD\CSA-3\C\CSA-2C\CSA-2C\bin\Debug\CSA-2C.exe
+F:\Outchjoobeescthe\CSAD\CSA-3\C\CSA-2C\CSA-2C\bin\Debug\CSA-2C.pdb
+F:\Outchjoobeescthe\CSAD\CSA-3\C\CSA-2C\CSA-2C\obj\Debug\CSA-2C.csprojResolveAssemblyReference.cache
+F:\Outchjoobeescthe\CSAD\CSA-3\C\CSA-2C\CSA-2C\obj\Debug\CSA_2C.Form1.resources
+F:\Outchjoobeescthe\CSAD\CSA-3\C\CSA-2C\CSA-2C\obj\Debug\CSA_2C.Properties.Resources.resources
+F:\Outchjoobeescthe\CSAD\CSA-3\C\CSA-2C\CSA-2C\obj\Debug\CSA-2C.csproj.GenerateResource.Cache
+F:\_Outchjoobeescthe\CSAD\CSA-3\C\CSA-2C\CSA-2C\bin\Debug\CSA-2C.exe.config
+F:\_Outchjoobeescthe\CSAD\CSA-3\C\CSA-2C\CSA-2C\obj\Debug\CSA-2C.exe
+F:\_Outchjoobeescthe\CSAD\CSA-3\C\CSA-2C\CSA-2C\obj\Debug\CSA-2C.pdb
+F:\_Outchjoobeescthe\CSAD\CSA-3\C\CSA-2C\CSA-2C\bin\Debug\CSA-2C.exe
+F:\_Outchjoobeescthe\CSAD\CSA-3\C\CSA-2C\CSA-2C\bin\Debug\CSA-2C.pdb
+F:\_Outchjoobeescthe\CSAD\CSA-3\C\CSA-2C\CSA-2C\obj\Debug\CSA_2C.Form1.resources
+F:\_Outchjoobeescthe\CSAD\CSA-3\C\CSA-2C\CSA-2C\obj\Debug\CSA_2C.Properties.Resources.resources
+F:\_Outchjoobeescthe\CSAD\CSA-3\C\CSA-2C\CSA-2C\obj\Debug\CSA-2C.csproj.GenerateResource.Cache
+F:\_Outchjoobeescthe\CSAD\CSA-3 (попытка выгрузить побольше на сервер)\C\CSA-2C\CSA-2C\bin\Debug\CSA-2C.exe.config
+F:\_Outchjoobeescthe\CSAD\CSA-3 (попытка выгрузить побольше на сервер)\C\CSA-2C\CSA-2C\obj\Debug\CSA-2C.exe
+F:\_Outchjoobeescthe\CSAD\CSA-3 (попытка выгрузить побольше на сервер)\C\CSA-2C\CSA-2C\obj\Debug\CSA-2C.pdb
+F:\_Outchjoobeescthe\CSAD\CSA-3 (попытка выгрузить побольше на сервер)\C\CSA-2C\CSA-2C\bin\Debug\CSA-2C.exe
+F:\_Outchjoobeescthe\CSAD\CSA-3 (попытка выгрузить побольше на сервер)\C\CSA-2C\CSA-2C\bin\Debug\CSA-2C.pdb
+F:\_Outchjoobeescthe\CSAD\CSA-3 (попытка выгрузить побольше на сервер)\C\CSA-2C\CSA-2C\obj\Debug\CSA_2C.Form1.resources
+F:\_Outchjoobeescthe\CSAD\CSA-3 (попытка выгрузить побольше на сервер)\C\CSA-2C\CSA-2C\obj\Debug\CSA_2C.Properties.Resources.resources
+F:\_Outchjoobeescthe\CSAD\CSA-3 (попытка выгрузить побольше на сервер)\C\CSA-2C\CSA-2C\obj\Debug\CSA-2C.csproj.GenerateResource.Cache
+F:\_Outchjoobeescthe\CSAD\CSA-3 (попытка выгрузить побольше на сервер)\C\CSA-2C\CSA-2C\obj\Debug\CSA-2C.csprojResolveAssemblyReference.cache
+F:\_Outchjoobeescthe\CSAD\CSA-3 (попытка выгрузить побольше на сервер)\C\CSA-2C\CSA-2C\obj\Debug\CSA_2C.Form2.resources
+F:\_Outchjoobeescthe\CSAD\CSA-4\C\CSA-2C\CSA-2C\bin\Debug\CSA-2C.exe.config
+F:\_Outchjoobeescthe\CSAD\CSA-4\C\CSA-2C\CSA-2C\obj\Debug\CSA-2C.exe
+F:\_Outchjoobeescthe\CSAD\CSA-4\C\CSA-2C\CSA-2C\obj\Debug\CSA-2C.pdb
+F:\_Outchjoobeescthe\CSAD\CSA-4\C\CSA-2C\CSA-2C\bin\Debug\CSA-2C.exe
+F:\_Outchjoobeescthe\CSAD\CSA-4\C\CSA-2C\CSA-2C\bin\Debug\CSA-2C.pdb
+F:\_Outchjoobeescthe\CSAD\CSA-4\C\CSA-2C\CSA-2C\obj\Debug\CSA-2C.csprojResolveAssemblyReference.cache
+F:\_Outchjoobeescthe\CSAD\CSA-4\C\CSA-2C\CSA-2C\obj\Debug\CSA_2C.Form1.resources
+F:\_Outchjoobeescthe\CSAD\CSA-4\C\CSA-2C\CSA-2C\obj\Debug\CSA_2C.Form2.resources
+F:\_Outchjoobeescthe\CSAD\CSA-4\C\CSA-2C\CSA-2C\obj\Debug\CSA_2C.Properties.Resources.resources
+F:\_Outchjoobeescthe\CSAD\CSA-4\C\CSA-2C\CSA-2C\obj\Debug\CSA-2C.csproj.GenerateResource.Cache
+\\DESKTOP-HDRHVDH\_Outchjoobeescthe\CSAD\CSA-4\C\CSA-2C\CSA-2C\bin\Debug\CSA-2C.exe.config
+\\DESKTOP-HDRHVDH\_Outchjoobeescthe\CSAD\CSA-4\C\CSA-2C\CSA-2C\obj\Debug\CSA-2C.exe
+\\DESKTOP-HDRHVDH\_Outchjoobeescthe\CSAD\CSA-4\C\CSA-2C\CSA-2C\obj\Debug\CSA-2C.pdb
+\\DESKTOP-HDRHVDH\_Outchjoobeescthe\CSAD\CSA-4\C\CSA-2C\CSA-2C\bin\Debug\CSA-2C.exe
+\\DESKTOP-HDRHVDH\_Outchjoobeescthe\CSAD\CSA-4\C\CSA-2C\CSA-2C\bin\Debug\CSA-2C.pdb
+\\DESKTOP-HDRHVDH\_Outchjoobeescthe\CSAD\CSA-4\C\CSA-2C\CSA-2C\obj\Debug\CSA-2C.csprojResolveAssemblyReference.cache
+\\DESKTOP-HDRHVDH\_Outchjoobeescthe\CSAD\CSA-4\C\CSA-2C\CSA-2C\obj\Debug\CSA_2C.Form1.resources
+\\DESKTOP-HDRHVDH\_Outchjoobeescthe\CSAD\CSA-4\C\CSA-2C\CSA-2C\obj\Debug\CSA_2C.Form2.resources
+\\DESKTOP-HDRHVDH\_Outchjoobeescthe\CSAD\CSA-4\C\CSA-2C\CSA-2C\obj\Debug\CSA_2C.Properties.Resources.resources
+\\DESKTOP-HDRHVDH\_Outchjoobeescthe\CSAD\CSA-4\C\CSA-2C\CSA-2C\obj\Debug\CSA-2C.csproj.GenerateResource.Cache
+F:\_Outchjoobeescthe\CSAD\CSA-6\C\CSA-2C\CSA-2C\bin\Debug\CSA-2C.exe.config
+F:\_Outchjoobeescthe\CSAD\CSA-6\C\CSA-2C\CSA-2C\obj\Debug\CSA-2C.exe
+F:\_Outchjoobeescthe\CSAD\CSA-6\C\CSA-2C\CSA-2C\obj\Debug\CSA-2C.pdb
+F:\_Outchjoobeescthe\CSAD\CSA-6\C\CSA-2C\CSA-2C\bin\Debug\CSA-2C.exe
+F:\_Outchjoobeescthe\CSAD\CSA-6\C\CSA-2C\CSA-2C\bin\Debug\CSA-2C.pdb
+F:\_Outchjoobeescthe\CSAD\CSA-6\C\CSA-2C\CSA-2C\obj\Debug\CSA-2C.csprojResolveAssemblyReference.cache
+F:\_Outchjoobeescthe\CSAD\CSA-6\C\CSA-2C\CSA-2C\obj\Debug\CSA_2C.Form1.resources
+F:\_Outchjoobeescthe\CSAD\CSA-6\C\CSA-2C\CSA-2C\obj\Debug\CSA_2C.Form2.resources
+F:\_Outchjoobeescthe\CSAD\CSA-6\C\CSA-2C\CSA-2C\obj\Debug\CSA_2C.Properties.Resources.resources
+F:\_Outchjoobeescthe\CSAD\CSA-6\C\CSA-2C\CSA-2C\obj\Debug\CSA-2C.csproj.GenerateResource.Cache
+F:\_Outchjoobeescthe\CSAD\CSA-6 последнее рабочее\C\CSA-2C\CSA-2C\bin\Debug\CSA-2C.exe.config
+F:\_Outchjoobeescthe\CSAD\CSA-6 последнее рабочее\C\CSA-2C\CSA-2C\obj\Debug\CSA-2C.exe
+F:\_Outchjoobeescthe\CSAD\CSA-6 последнее рабочее\C\CSA-2C\CSA-2C\obj\Debug\CSA-2C.pdb
+F:\_Outchjoobeescthe\CSAD\CSA-6 последнее рабочее\C\CSA-2C\CSA-2C\bin\Debug\CSA-2C.exe
+F:\_Outchjoobeescthe\CSAD\CSA-6 последнее рабочее\C\CSA-2C\CSA-2C\bin\Debug\CSA-2C.pdb
+F:\_Outchjoobeescthe\CSAD\CSA-6 последнее рабочее\C\CSA-2C\CSA-2C\obj\Debug\CSA-2C.csprojResolveAssemblyReference.cache
+F:\_Outchjoobeescthe\CSAD\CSA-6 последнее рабочее\C\CSA-2C\CSA-2C\obj\Debug\CSA_2C.Form1.resources
+F:\_Outchjoobeescthe\CSAD\CSA-6 последнее рабочее\C\CSA-2C\CSA-2C\obj\Debug\CSA_2C.Form2.resources
+F:\_Outchjoobeescthe\CSAD\CSA-6 последнее рабочее\C\CSA-2C\CSA-2C\obj\Debug\CSA_2C.Properties.Resources.resources
+F:\_Outchjoobeescthe\CSAD\CSA-6 последнее рабочее\C\CSA-2C\CSA-2C\obj\Debug\CSA-2C.csproj.GenerateResource.Cache
