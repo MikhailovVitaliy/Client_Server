@@ -1,6 +1,0 @@
-F:\_Outchjoobeescthe\CSAD\CSA-4\S\CSA-2S\CSA-2S\bin\Release\CSA-2S.exe.config
-F:\_Outchjoobeescthe\CSAD\CSA-4\S\CSA-2S\CSA-2S\bin\Release\CSA-2S.exe
-F:\_Outchjoobeescthe\CSAD\CSA-4\S\CSA-2S\CSA-2S\bin\Release\CSA-2S.pdb
-F:\_Outchjoobeescthe\CSAD\CSA-4\S\CSA-2S\CSA-2S\obj\Release\CSA-2S.csprojResolveAssemblyReference.cache
-F:\_Outchjoobeescthe\CSAD\CSA-4\S\CSA-2S\CSA-2S\obj\Release\CSA-2S.exe
-F:\_Outchjoobeescthe\CSAD\CSA-4\S\CSA-2S\CSA-2S\obj\Release\CSA-2S.pdb
