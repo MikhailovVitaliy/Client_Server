@@ -1,0 +1,33 @@
+F:\Outchjoobeescthe\CSAD\CSA-2\S\CSA-2S\CSA-2S\bin\Debug\CSA-2S.exe.config
+F:\Outchjoobeescthe\CSAD\CSA-2\S\CSA-2S\CSA-2S\bin\Debug\CSA-2S.exe
+F:\Outchjoobeescthe\CSAD\CSA-2\S\CSA-2S\CSA-2S\bin\Debug\CSA-2S.pdb
+F:\Outchjoobeescthe\CSAD\CSA-2\S\CSA-2S\CSA-2S\obj\Debug\CSA-2S.csprojResolveAssemblyReference.cache
+F:\Outchjoobeescthe\CSAD\CSA-2\S\CSA-2S\CSA-2S\obj\Debug\CSA-2S.exe
+F:\Outchjoobeescthe\CSAD\CSA-2\S\CSA-2S\CSA-2S\obj\Debug\CSA-2S.pdb
+F:\Outchjoobeescthe\CSAD\CSA-3\S\CSA-2S\CSA-2S\bin\Debug\CSA-2S.exe.config
+F:\Outchjoobeescthe\CSAD\CSA-3\S\CSA-2S\CSA-2S\obj\Debug\CSA-2S.exe
+F:\Outchjoobeescthe\CSAD\CSA-3\S\CSA-2S\CSA-2S\obj\Debug\CSA-2S.pdb
+F:\_Outchjoobeescthe\CSAD\CSA-3 (попытка выгрузить побольше на сервер)\S\CSA-2S\CSA-2S\bin\Debug\CSA-2S.exe.config
+F:\_Outchjoobeescthe\CSAD\CSA-3 (попытка выгрузить побольше на сервер)\S\CSA-2S\CSA-2S\obj\Debug\CSA-2S.exe
+F:\_Outchjoobeescthe\CSAD\CSA-3 (попытка выгрузить побольше на сервер)\S\CSA-2S\CSA-2S\obj\Debug\CSA-2S.pdb
+F:\_Outchjoobeescthe\CSAD\CSA-3 (попытка выгрузить побольше на сервер)\S\CSA-2S\CSA-2S\bin\Debug\CSA-2S.exe
+F:\_Outchjoobeescthe\CSAD\CSA-3 (попытка выгрузить побольше на сервер)\S\CSA-2S\CSA-2S\bin\Debug\CSA-2S.pdb
+F:\_Outchjoobeescthe\CSAD\CSA-3 (попытка выгрузить побольше на сервер)\S\CSA-2S\CSA-2S\obj\Debug\CSA-2S.csprojResolveAssemblyReference.cache
+F:\_Outchjoobeescthe\CSAD\CSA-4\S\CSA-2S\CSA-2S\bin\Debug\CSA-2S.exe.config
+F:\_Outchjoobeescthe\CSAD\CSA-4\S\CSA-2S\CSA-2S\obj\Debug\CSA-2S.exe
+F:\_Outchjoobeescthe\CSAD\CSA-4\S\CSA-2S\CSA-2S\obj\Debug\CSA-2S.pdb
+F:\_Outchjoobeescthe\CSAD\CSA-4\S\CSA-2S\CSA-2S\bin\Debug\CSA-2S.exe
+F:\_Outchjoobeescthe\CSAD\CSA-4\S\CSA-2S\CSA-2S\bin\Debug\CSA-2S.pdb
+F:\_Outchjoobeescthe\CSAD\CSA-4\S\CSA-2S\CSA-2S\obj\Debug\CSA-2S.csprojResolveAssemblyReference.cache
+\\DESKTOP-HDRHVDH\_Outchjoobeescthe\CSAD\CSA-4\S\CSA-2S\CSA-2S\bin\Debug\CSA-2S.exe.config
+\\DESKTOP-HDRHVDH\_Outchjoobeescthe\CSAD\CSA-4\S\CSA-2S\CSA-2S\obj\Debug\CSA-2S.exe
+\\DESKTOP-HDRHVDH\_Outchjoobeescthe\CSAD\CSA-4\S\CSA-2S\CSA-2S\obj\Debug\CSA-2S.pdb
+F:\_Outchjoobeescthe\CSAD\CSA-6\S\CSA-2S\CSA-2S\bin\Debug\CSA-2S.exe.config
+F:\_Outchjoobeescthe\CSAD\CSA-6\S\CSA-2S\CSA-2S\obj\Debug\CSA-2S.exe
+F:\_Outchjoobeescthe\CSAD\CSA-6\S\CSA-2S\CSA-2S\obj\Debug\CSA-2S.pdb
+F:\_Outchjoobeescthe\CSAD\CSA-6\S\CSA-2S\CSA-2S\bin\Debug\CSA-2S.exe
+F:\_Outchjoobeescthe\CSAD\CSA-6\S\CSA-2S\CSA-2S\bin\Debug\CSA-2S.pdb
+F:\_Outchjoobeescthe\CSAD\CSA-6\S\CSA-2S\CSA-2S\obj\Debug\CSA-2S.csprojResolveAssemblyReference.cache
+D:\Учёбка\АРКАЙВ\CSAD\CSA-6 последнее рабочее\Client_Server\S\CSA-2S\CSA-2S\bin\Debug\CSA-2S.exe.config
+D:\Учёбка\АРКАЙВ\CSAD\CSA-6 последнее рабочее\Client_Server\S\CSA-2S\CSA-2S\obj\Debug\CSA-2S.exe
+D:\Учёбка\АРКАЙВ\CSAD\CSA-6 последнее рабочее\Client_Server\S\CSA-2S\CSA-2S\obj\Debug\CSA-2S.pdb
